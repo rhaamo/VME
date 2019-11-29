@@ -5,6 +5,8 @@ Everything might be WIP, not functionnal, broken, or eat your cat.
 
 Some designs might uses my own KiCAD libraries: https://dev.sigpipe.me/DashieElectronics/KiCad_libraries
 
+Gerbers in `gerbers/` dirs or `gerbers.zip` WILL probably not be up to date, generate your own after checking schematics and PCBs.
+
 ## Contact
 - dashie AT otters DOT sh
 
