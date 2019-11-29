@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Eurocard_3U_VME-rescue)(type Legacy)(uri ${KIPRJMOD}/Eurocard_3U_VME-rescue.lib)(options "")(descr ""))
+)
