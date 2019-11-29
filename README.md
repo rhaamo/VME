@@ -11,7 +11,7 @@ Gerbers in `gerbers/` dirs or `gerbers.zip` WILL probably not be up to date, gen
 - dashie AT otter DOT sh
 
 ## Eurocard_3U_VME
-A 3U Eurocard with VME connector Px on one end, and a lot of plated holes in a 2.54mm grid, with ground strips.
+A 3U Eurocard with VME connector Px on one end, and a lot of plated holes in a 2.54mm grid, with unconnected strips (uses them as whatever you want).
 
 ## Eurocard_6U_233x160_VME
 A 6U Eurocard with VME connector P1 and P2 on one end, and a very log of plated holes in a 2.54mm grid, with ground and 5V strips.
